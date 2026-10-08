@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Simar!
 
-# I'm currently in my 3rd year at UC San Diego. I am majoring in Computer Science and minoring in Applied Mathematics.
+### I'm currently in my 3rd year at UC San Diego. I am majoring in Computer Science and minoring in Applied Mathematics.
 
 <!--
 **simgowda/simgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
